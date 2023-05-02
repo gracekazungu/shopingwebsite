@@ -1,0 +1,145 @@
+*{
+padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.navigation{
+    padding: 0,35px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 27%;
+}
+.navigation ul li{
+    display: inline-flex;
+    padding: 20px;
+    align-items: center;
+    text-decoration: none;
+}
+#img1{
+    width: 1250px;
+    margin: 10px;
+}
+.make{
+    background-image: url(images/dr1.jpeg);
+    background-repeat: no-repeat;
+}
+#week{
+    text-align: center;
+}
+.top{
+    display: flex;
+    margin-left: 40%;
+    font-size: 30px;
+    margin-top: 4%;
+}
+#ops{
+    margin-left: 50px;
+}
+.dress{
+    display: flex;
+    margin-top: 5%;
+    margin: 10px;
+   
+}
+.img2{
+    margin-left: 4%;
+    margin-top: 10px;
+}
+.img3{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+.img4{
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.img5{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+#all{
+    margin-left: 45%;
+    margin-top: 90px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: palevioletred;
+}
+.sports{
+    display: flex;
+}
+#sp{
+    height: 600px;
+    margin-left: 5%;
+}
+.sp2{
+    margin-left: -20%;
+    margin-top: -5%;
+}
+#hh{
+    margin-top: 70px;
+    margin-left: 30%;
+    width: 65%;
+}
+#fuse{
+    margin-left: 30%;
+    width: 65%;
+}
+.welcome{
+    text-align: center;
+    margin-top: 5%;
+}
+#img9{width: 1250px;margin: 10px;}
+
+#to{
+    font-weight: bold;
+}
+#we{
+    font-size: 20px;
+}
+.end{
+    background-image:url(images/woman.jpeg);
+    background-repeat: no-repeat;
+}
+
+.footer{
+    margin: 10px;
+    display: flex;
+    background-color:antiquewhite;
+}
+.hop{
+    margin-left: 6%;
+}
+.abt{
+    margin-left: 6%;
+}
+.letter{
+    margin-left: 6%;
+}
+#sub{
+    margin-top: 30px;
+    width: 60%;
+    height: 40px;
+    background-color: palevioletred;
+    border-radius: 10px;
+}
+#email{
+    margin-top: 20px;
+    width: 70%;
+    height: 40px;
+    border-radius: 8px;
+}
+.icons{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px;
+}
+.payment{
+    display: flex;
+    gap: 10px;
+    margin-left: 17%;
+    margin-top: 15px;
+}
+.shop{
+    margin-left: 6%;
+}
